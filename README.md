@@ -1,4 +1,4 @@
-# YunHuBotPHPSDK
+# YunHuReBotPHPSDK
 云湖聊天软件机器人PHPSDK
 文件在仓库
 
